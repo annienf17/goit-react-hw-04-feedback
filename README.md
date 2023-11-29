@@ -1,4 +1,3 @@
-# code refactoring #02 to hooks # and now 
 
 # React homework template
 
