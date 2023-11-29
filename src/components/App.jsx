@@ -20,7 +20,7 @@ export const App = () => {
   useEffect(() => {
     countTotalFeedback();
     countPositiveFeedbackPercentage();
-  }, [feedback]);
+  });
 
   const countTotalFeedback = () => {
     const { good, neutral, bad } = feedback;
